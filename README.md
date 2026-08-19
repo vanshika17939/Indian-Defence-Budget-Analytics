@@ -117,6 +117,6 @@ Run all cells from top to bottom.
 
 ## Author
 
-**Anshika Chaudhary**
+**Vanshika Chaudhary**
 
 A beginner-friendly data analytics project focused on extracting meaningful insights from public budget data.
